@@ -2,7 +2,7 @@
   "name": "rtc-switchboard",
   "version": "3.2.0",
   "description": "Signalling for rtc-io components using primus",
-  "main": "index.js",
+  "main": "server.js",
   "stability": "unstable",
   "scripts": {
     "start": "node --nouse-idle-notification server.js",
